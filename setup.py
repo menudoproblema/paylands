@@ -30,10 +30,9 @@ setup(
     packages=find_packages(exclude=['docs', 'tests*']),
     install_requires=install_requires(),
     tests_require=tests_require(),
-    description='Granada Dynamics Core Framework',
-    url='https://www.granadadynamics.com',
+    description='Paylands API client',
+    url='https://github.com/menudoproblema/paylands',
     author='Granada Dynamics, SL',
-    author_email='apps@granadadynamics.com',
     license='MIT License',
     zip_safe=True,
 )
