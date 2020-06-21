@@ -34,5 +34,11 @@ setup(
     url='https://github.com/menudoproblema/paylands',
     author='Granada Dynamics, SL',
     license='MIT License',
+    classifiers=[
+        'Programming Language :: Python :: 3',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: OS Independent',
+    ],
+    python_requires='>=3.6',
     zip_safe=True,
 )
